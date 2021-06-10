@@ -22,6 +22,6 @@
     ],
     "companies" : [
         {"id" : "1" , "name": "Apple", "description" : "Iphone"},
-        {"id" : "2" , "name" : "Google" , "desctiption": "Search"}
+        {"id" : "2" , "name" : "Google" , "description": "Search"}
     ]
 }
