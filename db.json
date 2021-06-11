@@ -2,9 +2,9 @@
   "users": [
     {
       "id": "23",
-      "firstName": "Bill",
-      "age": 20,
-      "companyId": "1"
+      "firstName": "Ashish",
+      "age": 10,
+      "companyId": "2"
     },
     {
       "id": "47",
@@ -35,12 +35,6 @@
       "age": 21,
       "companyId": "1",
       "id": "wwX_sNk"
-    },
-    {
-      "firstName": "Ashish",
-      "age": 21,
-      "companyId": "1",
-      "id": "5rUQDYw"
     }
   ],
   "companies": [
